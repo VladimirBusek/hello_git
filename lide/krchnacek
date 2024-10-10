@@ -1,0 +1,5 @@
+import zprava
+
+def muj_pozdrav():
+    moje_zprava = zprava.Zprava("Boris, you are my love <3")
+    moje_zprava.pozdrav()
