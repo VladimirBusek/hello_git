@@ -1,4 +1,5 @@
 import lide.boris as boris
+import lide.tomas as tomas
 import lide.krchnacek as krchnacek
 import lide.daniela as daniela
 import lide.simon as simon
@@ -9,6 +10,7 @@ print("-------------------------")
 print()
 
 boris.muj_pozdrav()
+tomas.muj_pozdrav()
 krchnacek.muj_pozdrav()
 daniela.muj_pozdrav()
 simon.muj_pozdrav()
